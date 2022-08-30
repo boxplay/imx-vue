@@ -57,7 +57,7 @@ components: [
 
 模版中直接使用
 
-<Imgx :src="'https://img.kaikeba.com/91326120210202eutg.png'" :delayTime="0.6"/>
+<Imgx :src="'https://img.xxxx.com/91326120210202eutg.png'" :delayTime="0.6"/>
 
 #### 参数说明
 
